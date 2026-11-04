@@ -1,0 +1,4 @@
+Microcontroller / AC source calculations
+5V
+Period = T = 1/110kHz => 9.091 us
+50% cycle = 4.545 us
